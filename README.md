@@ -22,3 +22,5 @@ The accessibility of social media has led to the widespread dissemination of ina
 3. **Machine Learning Model:** Implement a model to predict the likelihood of a video being clickbait.
 4. **Evaluation:** Assess model performance using labeled datasets.
 
+Report
+https://github.com/Yedukrishnaj/Clickbait-Detection/blob/main/Clickbait.pdf
